@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RESTVOLLEYAPI</string>
+    <string name="dogimg">dogimg</string>
+    <string name="textview1">TextView1</string>
+    <string name="textview2">TextView2</string>
+    <string name="meme">Button</string>
+    <string name="memepic">memepic</string>
+    <string name="next_meme">next MEME</string>
+    <string name="title">title</string>
+</resources>
